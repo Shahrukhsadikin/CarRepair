@@ -1,0 +1,184 @@
+#body{
+    font-family: Montserrat;
+}
+.section-header{
+    margin-bottom: 40px;
+}
+.section-header h2{
+    color: #08194a;
+    font-size: 45px;
+    font-weight: 700;
+}
+.section-header h2 span{
+    color: #e53f29;
+}
+.navbar-nav a{
+    font-size: 16px;
+    font-weight: 700;
+}
+.navbar-light .navbar-brand {
+    color: #08194a;
+    font-size: 25px;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+.navbar-light .navbar-brand span{
+    color: #e53f29;
+}
+.section-padding{
+    padding: 80px 0;
+}
+.w-100{
+    height: 100vh;
+}
+.navbar-toggler{
+    padding: 1px 5px;
+    font-size: 10px;
+    line-height: 0.3;
+    background-color: #fff;
+}
+.carousel{
+    background-image: url(car-repair/img/home.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.carousel-item{
+height: 100vh;
+min-height: 300px;
+}
+    
+.carousel-caption {
+    height: 220px;
+    z-index: 2;
+    left: 8%;
+}
+.carousel-caption h5{
+    font-style: 100px;
+    margin-top: 25px;
+    color: #08194a;
+    font-weight: 700;
+    text-align: left;
+}
+.carousel-caption h5 span{
+    color: #e53f29;
+}
+.carousel-caption p{
+    width: 60%;
+    font-style: 18px;
+    line-height: 1.8;
+    color: #08194a;
+    text-align: left;
+}
+.carousel-caption a{
+    text-transform: uppercase;
+    text-decoration: none;
+    background-color: #08194a;
+    padding: 5px 20px;
+    display: inline-block;
+    color: #fff;
+    margin-top: 15px;
+    border-radius: 5px;
+}
+/* about  */
+.img-area img{
+    width: 100% !important;
+}
+.about-text h2{
+    font-style: 45px;
+    font-weight: 700;
+    color: #08194a;
+}
+.about-text h2 span{
+    color: #e53f29;
+}
+.about-text .btn{
+    background-color: #08194a;
+    color: #fff;
+}
+/* services */
+.single-services{
+    background-color: #08194a;
+    color: #fff;
+    padding: 30px 15px;
+}
+.single-services i{
+    font-style: 45px;
+    margin-bottom: 30px;
+}
+.single-services h2{
+    font-family:bebas neue;
+}
+/* Why us */
+.choose-img img{
+    width: 100%;
+}
+.single-box{
+    padding: 20px;
+}
+.single-box i{
+    font-style: 35px;
+    margin-bottom: 25px;
+    color:#e53f29;
+}
+.single-box h2{
+    font-family:bebas neue;
+    color: #08194a;
+}
+ /* testimonials  */
+ .imgBox{
+    width: 80px;
+    height: 80px;
+    overflow: hidden;
+    border-radius: 50%;
+    margin: 0 auto 25px;
+ }
+ .imgBox img{
+    width: 100%;
+ }
+ .single-client{
+    box-shadow: 0 2px 20px rgba(0,0,0,0.3);
+    padding: 30px 15px;
+}
+.single-client h2{
+    color: #08194a;
+    font-family:bebas neue;
+}
+.single-client h5 {
+    color: #08194a;
+    font-weight: 600;
+    font-style: 15px;
+
+}
+.single-client h5 span{
+    font-style: 12px;
+    text-transform: uppercase;
+
+}
+
+/* contact  */
+.left-contact {
+    background: #08194a;
+    padding: 60px;
+    color:#fff;
+} 
+.left-contact h3{
+    font-family: bebas neue;
+    margin-bottom: 20px;
+
+}
+label{
+    font-family: bebas neue;
+    font-size: 28px;
+    margin: 10px 0;
+}
+/* footer  */
+footer {
+    background: #08194a;
+    padding: 35px 0; 
+    color: #fff;
+}
+.socials{
+    font-size: 25px;
+    margin: 0 15px;
+}
