@@ -182,3 +182,10 @@ footer {
     font-size: 25px;
     margin: 0 15px;
 }
+.btn{
+    margin: 10px;
+    background:#08194a;
+    color:#fff;
+    border-radius: 4px;
+
+}
